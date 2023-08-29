@@ -1,0 +1,21 @@
+#Performance222 {
+  margin-top: 5% !important;
+  font-weight: bold;
+}
+
+.radi {
+  margin-left: 600px;
+}
+
+.btqsuivantp {
+  text-align: right;
+  margin-left: 1000px;
+}
+.abb{
+  position: absolute;
+  top: 13%;
+  margin-left: 4%;
+   transform: translate(-50%, -50%);
+   color: #0d36ec;
+   font-size: 30px;
+}

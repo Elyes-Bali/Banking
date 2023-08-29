@@ -1,0 +1,19 @@
+#Performance4 {
+  margin-top: 5% !important;
+  font-weight: bold;
+}
+.project {
+  margin-left: 600px;
+}
+.btnsuivant1 {
+  text-align: right;
+  margin-left: 1000px;
+}
+.baaa{
+  position: absolute;
+  top: 10.2%;
+  margin-left: 4%;
+   transform: translate(-50%, -50%);
+   color: #0d36ec;
+   font-size: 30px;
+}

@@ -1,0 +1,12 @@
+.categories{
+    font-family: bold;
+    font-size: large;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+.diraction{
+    display: flex;
+    
+    justify-content: space-between;
+}

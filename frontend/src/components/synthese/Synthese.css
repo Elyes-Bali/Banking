@@ -1,0 +1,17 @@
+.sysn{
+    padding-top: 5%;
+}
+
+.downloadd{
+    display: flex;
+    justify-content: center;
+}
+
+.tdd{
+    font-size: large;
+    font-weight: bold;
+}
+
+.ccc{
+    text-align: center;
+}

@@ -1,0 +1,53 @@
+#Gestion {
+  margin-top: 5% !important;
+  font-weight: bold;
+}
+.suivant1 {
+  text-align: right;
+  margin-left: 600px;
+}
+.health{
+    margin-left: 600px;
+}
+.txt{
+  border: 1px solid black;
+    margin-left: 130px;
+    
+}
+.txt1{
+    margin-left: 25px;
+    border: 1px solid black;
+}
+.txt2{
+    margin-left: 180px;
+    border: 1px solid black;
+}
+.bod{
+  border: 1px solid black;
+}
+
+.prog3{
+  position: absolute;
+  top: 4.4%;
+  margin-left: 4%;
+   transform: translate(-50%, -50%);
+   color: #0d36ec;
+   font-size: 30px;
+}
+
+.prog31{
+  position: absolute;
+  top: 4.4%;
+  margin-left: 4%;
+   transform: translate(-50%, -50%);
+   color: #0d36ec;
+   font-size: 30px;
+}
+
+.trav{
+  font-size: 30px;
+}
+
+.travail{
+  font-size: 20px;
+}

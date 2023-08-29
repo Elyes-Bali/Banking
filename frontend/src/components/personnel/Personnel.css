@@ -1,0 +1,66 @@
+.informations{
+    padding-top: 8% !important;
+}
+
+.informations{
+  
+        height: 1020px;
+        background: #ffffff;
+        background: Orgb(0, 101, 219);
+      background: linear-gradient(
+        45deg,
+        rgb(150, 251, 251) 45%,
+        rgb(247, 243, 243) 60%
+      );
+      
+    ;
+    display: flex;
+    
+  
+    
+    }
+#Personnel {
+  font-weight: bold;
+ width: 30%;
+  border-radius: 2em;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2em;
+    text-align: center;
+    margin-top: 20px;
+}
+.personne{
+    width: 30em;
+    height: 40em;
+    position: relative;
+    border-radius: 1em;
+    box-shadow: 0 0.188em 1.550em rgb(100 ,156 ,156);
+}
+
+.bl{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.nom{
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.ava{
+ display: flex;
+ justify-content: center !important;
+ padding-bottom: 5%;
+}
+.prog9{
+  position: absolute;
+  top: 111%;
+  margin-left: 13% !important;
+   transform: translate(-50%, -50%);
+   color: #0d9eec;
+   font-size: 30px;
+}

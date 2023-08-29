@@ -1,0 +1,45 @@
+#Certification {
+  margin-top: 5% !important;
+  font-weight: bold;
+}
+.normes {
+  margin-left: 600px;
+}
+.suiva {
+  text-align: right;
+  margin-left: 600px;
+}
+.lesqu {
+  text-align: center;
+  margin-left: -22%;
+}
+.head {
+  font-size: 30px;
+}
+.sioui {
+  font-size: 20px;
+  margin-left: -1%;
+}
+.inpu {
+  margin-left: 20%;
+  width: 50% !important;
+  border: 1px solid black !important;
+}
+
+.progs11 {
+  position: absolute;
+  top: 10%;
+  margin-left: 4%;
+  transform: translate(-50%, -50%);
+  color: #0d36ec;
+  font-size: 30px;
+}
+
+.progs1 {
+  position: absolute;
+  top: 9.5%;
+  margin-left: 4%;
+  transform: translate(-50%, -50%);
+  color: #0d36ec;
+  font-size: 30px;
+}

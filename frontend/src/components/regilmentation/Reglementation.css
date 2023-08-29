@@ -1,0 +1,52 @@
+#Reglementation {
+  margin-top: 5% !important;
+    font-weight: bold;
+  }
+
+  .impact{
+    margin-left: 500px;
+  }
+  .encour{
+    margin-left: 60px;
+  }
+  .suiv{
+    text-align: right;
+   margin-left: 600px;
+  }
+  .deta{
+   display: flex;
+   justify-content: space-between;
+    margin: 5px;
+  }
+  .sioui{
+    margin-left: 50px;
+  }
+  .autoro{
+    width: 30% !important;
+  }
+
+  .progreg{
+    position: absolute;
+ top: 15%;
+ margin-left: 4%;
+  transform: translate(-50%, -50%);
+  color: #0d36ec;
+  font-size: 30px;
+  }
+
+  .progreg1{
+    position: absolute;
+ top: 13%;
+ margin-left: 4%;
+  transform: translate(-50%, -50%);
+  color: #0d36ec;
+  font-size: 30px;
+  }
+.trt{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.trt1{
+  font-size: 20px;
+  
+}
