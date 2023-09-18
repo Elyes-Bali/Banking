@@ -21,7 +21,13 @@ const SideBar = () => {
             <li className="list-item">
               <a href="/chart" className="nav-link">
                 <i className="list-item-icon fas fa-chart-pie" />
-                <span className="list-item-text">DATA</span>
+                <span className="list-item-text">analyse</span>
+              </a>
+            </li>
+            <li className="list-item">
+              <a href="/userdata" className="nav-link">
+                <i className="list-item-icon fas fa-database" />
+                <span className="list-item-text">Data</span>
               </a>
             </li>
             <li className="list-item">

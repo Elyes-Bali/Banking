@@ -170,3 +170,10 @@ width: 152%;
     font-size: large;
     font-weight: bold !important;
   }
+
+  .info-box-button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }

@@ -40,6 +40,7 @@ import Performance5678 from "./components/performances/Performance5678";
 import Performance4 from "./components/performance4/Performance4";
 import Questioncli from "./components/climatique/Questioncli";
 import Page1 from "./components/page1/Page1";
+import UserData from "./components/dashboard/UserData";
 
 function App() {
   const [ping, setPing] = useState(false);
@@ -93,6 +94,7 @@ function App() {
           <Route path="/bloc4" element={<Bloc4 />} />
           <Route path="/bloc5" element={<Bloc5 />} />
           <Route path="/page1" element={<Page1 />} />
+          <Route path="/userdata" element={<UserData />} />
         </Route>
 
         <Route element={<ProtectedRoutes />}>
